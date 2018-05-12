@@ -1,4 +1,5 @@
 _repo: Adrift-in-the-Arctic-Ice-Pack-from-the-history-of-the-first-US-Grinnell-Expedition-in-search-__47857
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -7,12 +8,17 @@ contributor:
       deathdate: 1931
       gutenberg_agent_id: '35425'
       url: http://www.gutenberg.org/2009/agents/35425
+covers:
+- cover_type: archival
+  image_path: 47857-h/images/cover.jpg
 creator:
   author:
     agent_name: Kane, Elisha Kent
     gutenberg_agent_id: '44502'
     url: http://www.gutenberg.org/2009/agents/44502
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47857#Adrift-in-the-Arctic-Ice-Pack-from-the-history-of-the-first-US-Grinnell-Expedition-in-search-_
 gutenberg_issued: '2015-01-03'
 gutenberg_type: Text
 identifiers:
