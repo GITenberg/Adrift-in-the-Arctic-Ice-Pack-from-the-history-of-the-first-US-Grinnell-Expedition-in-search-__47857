@@ -27,6 +27,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'Adrift in the Arctic Ice Pack
 
   from the history of the first U.S. Grinnell Expedition in
